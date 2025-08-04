@@ -81,37 +81,6 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
     },
-    
-    "hy": {
-      "api": "https://www.huyaapi.com/api.php/provide/vod",
-      "name": "虎牙",
-      "detail": "https://www.huyaapi.com"
-    },
-    "hhzyw": {
-      "api": "https://hhzyapi.com/api.php/provide/vod",
-      "name": "豪华资源网",
-      "detail": "https://hhzyapi.com"
-    },
-    "jy": {
-      "api": "https://jinyingzy.com/api.php/provide/vod",
-      "name": "金鹰",
-      "detail": "https://jinyingzy.com"
-    }
-    "lzzy": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "name": "量子资源",
-      "detail": "https://cj.lziapi.com"
-    },
-    "slzy": {
-      "api": "https://suoniapi.com/api.php/provide/vod",
-      "name": "索尼资源",
-      "detail": "https://suoniapi.com"
-    },
-      "hnzy": {
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
-      "name": "红牛资源",
-      "detail": "https://www.hongniuzy2.com"
-    },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
